@@ -11,7 +11,7 @@
   Trung (Jay) Nguyen </h1>
 </div>
 
-***
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFhODkyNmFmMjFjMjAyZWQ4MzU0MDZiYWQwOWFjZjMzN2ZkNTBlNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" height="150"/>
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/trung-nguyen-jayt/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://jayt-portfolio.vercel.app/">
+  <a href="https://jayt-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-orange?o&style=for-the-badge&logo=jameson&logoColor=white"
    alt="Portfolio Badge"/>
   </a>
@@ -33,3 +33,37 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+<h1>
+ 👨🏻‍💻 About me:
+</h1>
+<p style="font-size:16px;">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 35px; "> from Australia.
+</p>
+
+<ul style="margin-top:6px; list-style: none; font-size:16px;">
+      <li>
+        <img src="./images/telescope.png" style="width=20px; height: 20px; margin-right:10px;">
+        I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+      </li>
+      <li>
+        <img src="./images/sprout.png" style="width=20px; height: 20px; margin-right:10px;">
+        Exploring and learn New Technical knowledge and software developer skills.
+      </li>
+      <li>
+        <img src="./images/thunderbolt.png" style="width=20px; height: 20px; margin-right:10px;">
+        In my free time, I always try to solve problems on GeeksforGeeks and leetcode and read tech articles.
+      </li>
+      <li>
+        <img src="./images/postbox.png" style="width=20px; height: 20px; margin-right:10px;">
+        How to reach me: 
+        <a href="https://www.linkedin.com/in/trung-nguyen-jayt/">
+          <img src="https://img.shields.io/badge/Trung Nguyen-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        or 
+        <a href="mailto:kientrung2509@gmail.com">
+         <img src="https://img.shields.io/badge/Email Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+      </li>
+</ul>
