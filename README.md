@@ -101,6 +101,12 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img  alt="MaterialUI" height="50px" style="padding-right:10px;" src="./images/materialui.png"/>
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img  alt="TailwindCSS" height="50px" style="padding-right:10px;" src="./images/Tailwind.png"/>
+  </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
@@ -127,6 +133,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="./images/mysql-icon.png"/>
   </a>
   <a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
       <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
