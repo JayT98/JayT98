@@ -168,3 +168,28 @@
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
 </div>
+<hr/>
+
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics:</h2>
+<div id="statistics" align="center">
+  <img src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" width="100%" height="100%"/>
+</div>
+<br/>
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![JayT98 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayT98&hide=stars&count_private=true&show_icons=true&theme=slateorange&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JayT98&count_private=true&theme=slateorange&border_radius=20)
+
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayT98&layout=compact&show_icons=true&theme=slateorange&border_radius=20)
+</div>
+<!--  End Stats Cards -->
