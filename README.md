@@ -1,5 +1,4 @@
 <div style="width: 100%; height: 20%; display: flex; align-items:center; gap: 10px">
-  <img src="./images/logo.svg" style="width:32px; heigh:32px;"/>
   <h1 style=" font-size: 36px;
   background-image: linear-gradient(to right, rgb(255, 166, 46), rgb(247, 27, 61));
   background-size: 100%;
@@ -8,7 +7,7 @@
   -webkit-text-fill-color: transparent; 
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;">
-  Trung (Jay) Nguyen </h1>
+  <img src="./images/logo.svg" style="width:32px; heigh:32px;"/> Trung (Jay) Nguyen </h1>
 </div>
 
 
@@ -68,7 +67,6 @@
 <!-- Languages and Tools -->
 <br/>
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<hr>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
