@@ -45,7 +45,7 @@
       </li>
       <li>
         <img src="./images/sprout.png" style="width=20px; height: 20px; margin-right:10px;">
-        Exploring and learn New Technical knowledge and software developer skills.
+        Exploring and learn New Technical knowledge and software developer skills from Udemy, Designgurus, freecodecamp and more.
       </li>
       <li>
         <img src="./images/thunderbolt.png" style="width=20px; height: 20px; margin-right:10px;">
